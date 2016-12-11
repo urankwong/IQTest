@@ -850,42 +850,43 @@
         <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="2、 找出与众不同的一个：。"
+            android:text="26、如果所有的甲都是乙，所有的乙都是丙，那么一定所有的甲都是丙。这句话是"
         />
         <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="2、 找出与众不同的一个：。"
+            android:text="28、汉期、赛斯、麦克、约翰逊构买苹果144个。汉期买的苹果比赛斯多10个，比麦克多26个，比约翰
+逊多32个。汉期买了多少个苹果？"
         />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="2、 找出与众不同的一个：。"
+            android:text="29、找出与众不同的一个："
             />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="2、 找出与众不同的一个：。"
+            android:text="30、五个答案中哪个是最好的类比？"
             />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="2、 找出与众不同的一个：。"
+            android:text="女儿对于父亲相当于侄女对于"
             />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="2、 找出与众不同的一个：。"
+            android:text="31、找出下列数字中多余的一个："
             />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="2、 找出与众不同的一个：。"
+            android:text="32、找出与众不同的一个："
             />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="2、 找出与众不同的一个：。"
+            android:text="33、五个答案中哪个是最好的类比？"
             />
         <TextView
             android:layout_width="wrap_content"
