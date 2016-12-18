@@ -159,10 +159,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r1a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，答对啦,真聪明！" + score);
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -173,10 +171,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r2a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -186,10 +182,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r3a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -199,10 +193,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r4a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -212,10 +204,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r5a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -225,10 +215,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r6a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -238,10 +226,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r7a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -251,10 +237,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r8a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -264,10 +248,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r9a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -277,10 +259,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r10a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -290,10 +270,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r11a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -304,10 +282,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r12a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -317,10 +293,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r13a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -330,10 +304,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r14a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -343,10 +315,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r15a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -356,10 +326,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r16a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -369,10 +337,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r17a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -382,10 +348,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r18a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -395,10 +359,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r19a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -408,10 +370,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r20a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -421,10 +381,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r21a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -435,10 +393,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r22a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -448,10 +404,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r23a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -461,10 +415,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r24a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -474,10 +426,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r25a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
@@ -487,10 +437,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (checkedId == r26a.getId()) {
                     score = score + 1;
-                    DisplayToast("哈哈，你答对啦,真聪明！");
                 } else {
                     score = score;
-                    DisplayToast("哼，知道错了吧");
                 }
             }
         });
