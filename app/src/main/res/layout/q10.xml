@@ -10,11 +10,13 @@
         android:text="10、如果所有的甲是乙，没有一个乙是丙，那么，一定没有一个丙是甲。这句话是：" />
 
     <RadioGroup
+        android:id="@+id/r10"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
         <RadioButton
+            android:id="@+id/r10a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

@@ -15,6 +15,7 @@
         android:src="@drawable/i37" />
 
     <RadioGroup
+        android:id="@+id/r37"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -44,6 +45,8 @@
             android:text="d" />
 
         <RadioButton
+
+            android:id="@+id/r37a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

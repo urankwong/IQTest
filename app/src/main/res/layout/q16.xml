@@ -10,6 +10,7 @@
         android:text="16、沃斯有12枚硬币，共3角6分钱。其中有5枚硬币是一样的，那么这五枚一定是：" />
 
     <RadioGroup
+        android:id="@+id/r16"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -27,6 +28,7 @@
             android:text="2分的" />
 
         <RadioButton
+            android:id="@+id/r16a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

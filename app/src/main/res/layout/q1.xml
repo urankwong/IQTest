@@ -15,6 +15,7 @@
         android:text="工工人人人工人对于2211121相当于工工人人工人人工对于" />
 
     <RadioGroup
+        android:id="@+id/r1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
 
@@ -29,6 +30,7 @@
             android:text="22112122" />
 
         <RadioButton
+            android:id="@+id/r1a"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="22112112" />

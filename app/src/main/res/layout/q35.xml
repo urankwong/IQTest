@@ -10,6 +10,7 @@
         android:text="35、樱桃对于红相当于牛奶对于_______" />
 
     <RadioGroup
+        android:id="@+id/r35"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -27,6 +28,7 @@
             android:text="冷" />
 
         <RadioButton
+            android:id="@+id/r35a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

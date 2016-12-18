@@ -10,6 +10,7 @@
         android:text="13、沃斯比乔丹大，麦瑞比沃斯小。下列陈述中哪一句是正确的？" />
 
     <RadioGroup
+        android:id="@+id/r13"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
 
@@ -29,6 +30,7 @@
             android:text="麦瑞与乔丹一样大" />
 
         <RadioButton
+            android:id="@+id/r13a"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="无法确定麦瑞与乔丹谁大" />

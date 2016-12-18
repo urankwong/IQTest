@@ -10,6 +10,7 @@
         android:text="20、一本书的价格低了50%。现在，如果按原价出售，提高了百分之几？" />
 
     <RadioGroup
+        android:id="@+id/r20"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -33,6 +34,7 @@
             android:text="75%" />
 
         <RadioButton
+            android:id="@+id/r20a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

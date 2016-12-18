@@ -10,6 +10,7 @@
         android:text="2、 找出与众不同的一个：。" />
 
     <RadioGroup
+        android:id="@+id/r2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -27,6 +28,7 @@
             android:text="锡" />
 
         <RadioButton
+            android:id="@+id/r2a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

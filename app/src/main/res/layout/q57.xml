@@ -10,6 +10,7 @@
         android:text="57、找出与众不同的一个：" />
 
     <RadioGroup
+        android:id="@+id/r57"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical">
@@ -25,6 +26,7 @@
             android:text="排球运动员" />
 
         <RadioButton
+            android:id="@+id/r57a"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="播音员" />

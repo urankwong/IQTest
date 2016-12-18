@@ -10,6 +10,7 @@
         android:text="59、找出与众不同的一个：" />
 
     <RadioGroup
+        android:id="@+id/r59"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -39,6 +40,7 @@
             android:text="风" />
 
         <RadioButton
+            android:id="@+id/r59a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

@@ -10,6 +10,7 @@
         android:text="39、哥哥今年15岁，他的年龄是妹妹年龄的3倍。当哥哥的年龄是妹妹年龄2倍时，哥哥几岁？" />
 
     <RadioGroup
+        android:id="@+id/r39"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -21,6 +22,7 @@
             android:text="18岁" />
 
         <RadioButton
+            android:id="@+id/r39a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

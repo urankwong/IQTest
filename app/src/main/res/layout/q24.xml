@@ -10,6 +10,7 @@
         android:text="24、打满水缸要11桶水。王林第次只能提两桶水，要打满水缸他需要走几趟？" />
 
     <RadioGroup
+        android:id="@+id/r24"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -27,6 +28,7 @@
             android:text="11/2" />
 
         <RadioButton
+            android:id="@+id/r24a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

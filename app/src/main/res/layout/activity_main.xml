@@ -141,6 +141,14 @@
         <include layout="@layout/q59" />
 
         <include layout="@layout/q60" />
-    </LinearLayout>
 
+        <Button
+            android:text="提交"
+            android:id="@+id/tj"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="Tijiao"
+            android:layout_gravity="center_horizontal" />
+
+    </LinearLayout>
 </ScrollView>

@@ -15,6 +15,7 @@
         android:src="@drawable/i6" />
 
     <RadioGroup
+        android:id="@+id/r6"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -29,12 +30,6 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="b" />
-
-        <RadioButton
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
             android:text="c" />
 
         <RadioButton
@@ -43,6 +38,18 @@
             android:layout_weight="1"
             android:text="d" />
 
+        <RadioButton
+            android:id="@+id/r6a"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="e" />
+
+        <RadioButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="f" />
     </RadioGroup>
 
 </LinearLayout>

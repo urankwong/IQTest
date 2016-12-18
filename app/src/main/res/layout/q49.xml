@@ -15,6 +15,7 @@
         android:src="@drawable/i49" />
 
     <RadioGroup
+        android:id="@+id/r49"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -26,6 +27,7 @@
             android:text="20%" />
 
         <RadioButton
+            android:id="@+id/r49a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

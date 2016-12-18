@@ -15,6 +15,7 @@
         android:text="女儿对于父亲相当于侄女对于" />
 
     <RadioGroup
+        android:id="@+id/r30"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -32,6 +33,7 @@
             android:text="表兄" />
 
         <RadioButton
+            android:id="@+id/r30a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

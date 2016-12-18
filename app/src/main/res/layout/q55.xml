@@ -10,6 +10,7 @@
         android:text="55、车站对于火加相当于港口对于" />
 
     <RadioGroup
+        android:id="@+id/r55"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -33,6 +34,7 @@
             android:text="领航员" />
 
         <RadioButton
+            android:id="@+id/r55a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

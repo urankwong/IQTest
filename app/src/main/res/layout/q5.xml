@@ -10,6 +10,7 @@
         android:text="5、全班学生排成一行，从左数和从右数沃斯都是第15名，问全班共有学生多少人？" />
 
     <RadioGroup
+        android:id="@+id/r5"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -27,6 +28,7 @@
             android:text="25" />
 
         <RadioButton
+            android:id="@+id/r5a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

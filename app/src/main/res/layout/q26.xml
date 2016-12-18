@@ -10,11 +10,13 @@
         android:text="26、如果所有的甲都是乙，所有的乙都是丙，那么一定所有的甲都是丙。这句话是" />
 
     <RadioGroup
+        android:id="@+id/r26"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
         <RadioButton
+            android:id="@+id/r26a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

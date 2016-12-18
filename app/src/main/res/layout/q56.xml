@@ -10,6 +10,7 @@
         android:text="56、如果所有的甲都是乙，有些乙是丙，那么，一定有些甲是丙。这一陈述是：" />
 
     <RadioGroup
+        android:id="@+id/r56"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -21,6 +22,7 @@
             android:text="对的" />
 
         <RadioButton
+            android:id="@+id/r56a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

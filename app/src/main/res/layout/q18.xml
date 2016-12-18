@@ -10,6 +10,7 @@
         android:text="18、经过破译敌人密码，已经知道了“香蕉苹果大鸭梨”的意思是“星期三秘密进攻”；“苹果甘蔗水蜜桃”的意思是“执行秘密计划”；“广柑香蕉西红柿”的意识是“星期三的胜利属于我们”；那么，“大鸭梨”的意思是：" />
 
     <RadioGroup
+        android:id="@+id/r18"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -27,6 +28,7 @@
             android:text="星期三" />
 
         <RadioButton
+            android:id="@+id/r18a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

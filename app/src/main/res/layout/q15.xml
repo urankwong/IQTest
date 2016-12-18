@@ -15,6 +15,7 @@
         android:text="“预杉”对于“须抒”相当于8326对于________." />
 
     <RadioGroup
+        android:id="@+id/r15"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -38,6 +39,7 @@
             android:text="2683" />
 
         <RadioButton
+            android:id="@+id/r15a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

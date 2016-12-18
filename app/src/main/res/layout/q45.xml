@@ -10,6 +10,7 @@
         android:text="45、汽油对汽车相当于食物对于" />
 
     <RadioGroup
+        android:id="@+id/r45"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -33,6 +34,7 @@
             android:text="吃" />
 
         <RadioButton
+            android:id="@+id/r45a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

@@ -10,6 +10,7 @@
         android:text="7、找出与“确信”意思相同或意义最相近的词：" />
 
     <RadioGroup
+        android:id="@+id/r7"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -33,6 +34,7 @@
             android:text="信心" />
 
         <RadioButton
+            android:id="@+id/r7a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

@@ -11,6 +11,7 @@
 逊多32个。汉期买了多少个苹果？" />
 
     <RadioGroup
+        android:id="@+id/r28"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -28,6 +29,7 @@
             android:text="63" />
 
         <RadioButton
+            android:id="@+id/r28a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

@@ -10,6 +10,7 @@
         android:text="31、找出下列数字中多余的一个：" />
 
     <RadioGroup
+        android:id="@+id/r31"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical">
@@ -35,6 +36,7 @@
             android:text="10" />
 
         <RadioButton
+            android:id="@+id/r31a"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="11" />

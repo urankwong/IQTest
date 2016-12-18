@@ -16,6 +16,7 @@
         android:text="水对于龙头相当于电对于_______." />
 
     <RadioGroup
+        android:id="@+id/r23"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -27,6 +28,7 @@
             android:text="光线" />
 
         <RadioButton
+            android:id="@+id/r23a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

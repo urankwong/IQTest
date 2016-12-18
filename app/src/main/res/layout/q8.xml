@@ -16,6 +16,7 @@
         android:text="脚对于手相当于腿对于___________" />
 
     <RadioGroup
+        android:id="@+id/r8"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -33,6 +34,7 @@
             android:text="膝" />
 
         <RadioButton
+            android:id="@+id/r8a"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
