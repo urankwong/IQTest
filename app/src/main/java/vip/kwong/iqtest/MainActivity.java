@@ -1,11 +1,10 @@
 package vip.kwong.iqtest;
 
-import android.content.DialogInterface;
 import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Gravity;
-import android.widget.Button;
+import android.view.View;
 import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
@@ -933,17 +932,141 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void tijiao(Button tj) {
+    public void click(View v) {
         if (e38.getText().toString() == "月") {
             score = score + 1;
         }
-        if (score >= 80) {
+        switch (score) {
+            case 19:
+                DisplayToast("你的IQ为80");
+                break;
+            case 20:
+                DisplayToast("你的IQ为82");
+                break;
+            case 21:
+                DisplayToast("你的IQ为84");
+                break;
+            case 22:
+                DisplayToast("你的IQ为86");
+                break;
+            case 23:
+                DisplayToast("你的IQ为88");
+                break;
+            case 24:
+                DisplayToast("你的IQ为90");
+                break;
+            case 25:
+                DisplayToast("你的IQ为92");
+                break;
+            case 26:
+                DisplayToast("你的IQ为94");
+                break;
+            case 27:
+                DisplayToast("你的IQ为96");
+                break;
+            case 29:
+                DisplayToast("你的IQ为100");
+                break;
+            case 30:
+                DisplayToast("你的IQ为102");
+                break;
+            case 31:
+                DisplayToast("你的IQ为104");
+                break;
+            case 32:
+                DisplayToast("你的IQ为106");
+                break;
+            case 33:
+                DisplayToast("你的IQ为108");
+                break;
+            case 34:
+                DisplayToast("你的IQ为110");
+                break;
+            case 35:
+                DisplayToast("你的IQ为112");
+                break;
+            case 36:
+                DisplayToast("你的IQ为114");
+                break;
+            case 37:
+                DisplayToast("你的IQ为116");
+                break;
+            case 38:
+                DisplayToast("你的IQ为118");
+                break;
+            case 39:
+                DisplayToast("你的IQ为120");
+                break;
+            case 40:
+                DisplayToast("你的IQ为122");
+                break;
+            case 41:
+                DisplayToast("你的IQ为124");
+                break;
+            case 42:
+                DisplayToast("你的IQ为126");
+                break;
+            case 43:
+                DisplayToast("你的IQ为128");
+                break;
+            case 44:
+                DisplayToast("你的IQ为130");
+                break;
+            case 45:
+                DisplayToast("你的IQ为132");
+                break;
+            case 46:
+                DisplayToast("你的IQ为134");
+                break;
+            case 47:
+                DisplayToast("你的IQ为136");
+                break;
+            case 48:
+                DisplayToast("你的IQ为138");
+                break;
+            case 49:
+                DisplayToast("你的IQ为140");
+                break;
+            case 50:
+                DisplayToast("你的IQ为142");
+                break;
+            case 51:
+                DisplayToast("你的IQ为144");
+                break;
+            case 52:
+                DisplayToast("你的IQ为146");
+                break;
+            case 53:
+                DisplayToast("你的IQ为148");
+                break;
+            case 54:
+                DisplayToast("你的IQ为150");
+                break;
+            case 55:
+                DisplayToast("你的IQ为154");
+                break;
+            case 56:
+                DisplayToast("你的IQ为158");
+                break;
+            case 57:
+                DisplayToast("你的IQ为160");
+                break;
+            case 58:
+                DisplayToast("你的IQ为165+");
+                break;
+            case 59:
+                DisplayToast("你的IQ为165+");
+                break;
+            case 60:
+                DisplayToast("你的IQ为165+");
+                break;
+            default:
+                DisplayToast("额。。。你还是不要知道的好。。。");
 
-        } else {
-            dialog.setMessage("额。。。你怎么能这么笨呢？");
-            dialog();
         }
+
     }
+
 
     public void DisplayToast(String str) {
         Toast toast = Toast.makeText(this, str, Toast.LENGTH_LONG);
@@ -951,17 +1074,4 @@ public class MainActivity extends AppCompatActivity {
         toast.show();
     }
 
-    private void dialog() {
-        AlertDialog.Builder builder = new AlertDialog.Builder(this);
-        builder.setTitle("提示");
-        builder.setMessage("你的IQ为");
-        builder.setIcon(R.mipmap.ic_launcher);
-        builder.setPositiveButton("确定", new DialogInterface.OnClickListener() { //设置确定按钮
-            @Override
-            public void onClick(DialogInterface dialog, int which) {
-                dialog.dismiss();
-                Toast.makeText(MainActivity.this, "确认" + which, Toast.LENGTH_SHORT).show();
-            }
-        });
-    }
 }
